@@ -1,0 +1,25 @@
+Masukkan file.sql yang ada didalam folder Database ke Database Web dengan nama "rentaluyeee" (tanpa petik dua).
+
+PENYEWA
+email: coba@gmail.com
+pass: aa
+
+email: ayuwandira@gmail.com
+pass: ayuwandira
+
+email: fidel@gmail.com
+pass: fidel
+
+email: imam@gmail.com
+pass: imam
+
+
+
+
+ADMIN
+email: admin@rentaluyeee.com
+pass: admin
+
+PEMILIK
+email: pemilik@rentaluyeee.com
+pass: pemilik
